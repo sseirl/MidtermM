@@ -36,3 +36,26 @@ Task 8️⃣: Make a pull request, write first name, last name and group in the 
 
 
 
+Все задачи выполнены:
+1: Создана ветка Student_name и добавлено 3 коммита сделано
+(Скриншот в файле screenshots в ветке main)
+
+
+
+2: Слияние ветки two в three и ребейз ветки three на one.(Скриншот в файле screenshots в ветке main)
+
+
+
+3: Ответы находятся в ветке just-branch, в том же файле где вопросы. Ответы снизу вопросов.
+
+
+4: Создана ветка dev-feature от main и добавлен один коммит. (название коммита "commit for feature")
+
+
+5: Разрешены конфликты при слиянии ветки feature с one.(Скриншот в файле screenshots в ветке main)
+
+
+6: Удалены ветки two и three после слияния с main.(Скриншот в файле screenshots в ветке main)
+
+
+
